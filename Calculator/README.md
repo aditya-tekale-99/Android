@@ -3,7 +3,7 @@
 
 This app does simple operations like addition, subtraction, multiplication and division.   
 
-***All the main code is in activity_main.xml and MainActivity.java***  
+***All the main code is in [activity_main.xml](https://github.com/aditya-tekale-99/Android/blob/main/Calculator/app/src/main/res/layout/activity_main.xml) and [MainActivity.java](https://github.com/aditya-tekale-99/Android/blob/main/Calculator/app/src/main/java/com/simplecalc/calculator/MainActivity.java)***  
 (xml file has the design layout while the java file has the code for doing the operations)
 
 <img src="https://github.com/aditya-tekale-99/Android/blob/main/Calculator/Screenshots/UI.png" alt="alt text" width="250" height="450">
