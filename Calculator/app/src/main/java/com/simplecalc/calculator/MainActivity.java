@@ -33,7 +33,27 @@ public class MainActivity extends AppCompatActivity {
                 final int firstNumberValue = Integer.parseInt(firstNumber.getText().toString());
                 final int secondNumberValue = Integer.parseInt(secondNumber.getText().toString());
 
-                operators.getCheckedRadioButtonId();
+                final int operatorButtonId = operators.getCheckedRadioButtonId();
+
+                Integer answer = 0;
+
+                if(operatorButtonId == R.id.add) {
+                    //adding
+                    answer = firstNumberValue + secondNumberValue;
+                }
+                else if (operatorButtonId == R.id.sub) {
+                    //subtracting
+                    answer = firstNumberValue - secondNumberValue;
+                }
+                else if (operatorButtonId == R.id.multiply){
+                    //multiplying
+                    answer = firstNumberValue * secondNumberValue;
+                }
+                else{
+                    //dividing
+                    answer = firstNumberValue / secondNumberValue;
+                }
+                result.setText(answer.toString());
             }
         });
     }
