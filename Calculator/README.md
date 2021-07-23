@@ -8,6 +8,11 @@ This app does simple operations like addition, subtraction, multiplication and d
 
 <img src="https://github.com/aditya-tekale-99/Android/blob/main/Calculator/Screenshots/UI.png" alt="alt text" width="325" >
 
+<p float="left">
+  <img src="https://github.com/aditya-tekale-99/Android/blob/main/Calculator/Screenshots/UI.png" width="100" />
+  <img src="https://github.com/aditya-tekale-99/Android/blob/main/Calculator/Screenshots/division.png" width="100" /> 
+</p>
+
 To run this app on your device: 
 - Enable USB debugging on your device
 - Dowload Android studio
