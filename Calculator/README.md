@@ -4,7 +4,7 @@
 This app does simple operations like addition, subtraction, multiplication and division.   
 
 ***All the main code is in activity_main.xml and MainActivity.java***  
-***xml file has the design layout while the java file has the code for doing the operations (+, -, /, *)***
+xml file has the design layout while the java file has the code for doing the operations (+, -, /, *)
 
 
 
