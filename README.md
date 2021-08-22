@@ -2,11 +2,11 @@
 Android apps developed using Java as the main programming language and XML for the UI/UX design on Android studio.   
 Apps tested on Pixel 4XL and Nexus 6p.
 
-#My Dear Diary
+# My Dear Diary
 Simple android app that lets you record write personal stuff in a digital diary
 
-#Calculator
+# Calculator
 Andriod application used for doing simple mathematical operations
 
-#Unquote
+# Unquote
 Android quiz game where users have to guess who said a particular quote.
