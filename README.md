@@ -2,7 +2,7 @@
 Android apps developed using Java/Kotlin as the programming language and XML for the UI/UX design on Android studio.   
 Apps tested on Pixel 4XL and Nexus 6p.
 
-## My Android Diary [a link](https://github.com/aditya-tekale-99/Android/tree/main/MyAndroidDiary)
+## [My Android Diary](https://github.com/aditya-tekale-99/Android/tree/main/MyAndroidDiary)
 Simple android app that lets you record write personal stuff in a digital diary
 
 ## Calculator
