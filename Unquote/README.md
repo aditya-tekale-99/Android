@@ -4,6 +4,7 @@
 This app has famous quotes said by different people and the main objective is to get the names right based on the quote shown.   
 
 <p float="left">
+  <img src="https://github.com/aditya-tekale-99/Android/blob/main/Unquote/Screenshots/Screenshot_20210822-124956.png" width="250" />
   <img src="https://github.com/aditya-tekale-99/Android/blob/main/Unquote/Screenshots/Screenshot_20210822-125023.png" width="250" />
   <img src="https://github.com/aditya-tekale-99/Android/blob/main/Unquote/Screenshots/Screenshot_20210822-125034.png" width="250" /> 
 </p>
