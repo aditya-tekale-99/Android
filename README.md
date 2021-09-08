@@ -11,5 +11,5 @@ Andriod application used for doing simple mathematical operations
 ## [Unquote](https://github.com/aditya-tekale-99/Android/tree/main/Unquote)
 Android quiz game where users have to guess who said a particular quote.
 
-## [WeatherApp](https://github.com/aditya-tekale-99/Android/tree/main/Unquote)
+## [WeatherApp](https://github.com/aditya-tekale-99/Android/tree/main/WeatherApp)
 Android application that shows the current weather and the forecast for the next 5 days.
